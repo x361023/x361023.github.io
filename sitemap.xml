@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ihee.xyz/dog/index.html</loc>
+    
+    <lastmod>2020-06-13T12:38:37.189Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://ihee.xyz/tags/index.html</loc>
     
     <lastmod>2020-06-07T03:02:39.052Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>https://ihee.xyz/about/index.html</loc>
     
     <lastmod>2020-06-07T03:01:52.162Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ihee.xyz/dog/index.html</loc>
-    
-    <lastmod>2020-06-07T02:52:53.129Z</lastmod>
     
   </url>
   
